@@ -1,3 +1,5 @@
+[![FinTrust-Bank-India Banner](4_Wireframes/Banner.png)](4_Wireframes/Banner.png)
+
 # 🏦 FinTrust Bank India – Digital Banking Transformation
 
 ## 📌 Project Summary
