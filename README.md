@@ -1,39 +1,38 @@
 # 🏦 FinTrust Bank India – Digital Banking Transformation
 
 ## 📌 Project Summary
-This repository holds the **end-to-end Business Analysis documentation** for FinTrust Bank’s digital transformation initiative — moving from traditional branch-based banking to a **customer-friendly online banking solution**.
+This repository contains the **end-to-end Business Analysis documentation** for FinTrust Bank’s digital transformation initiative — moving from traditional branch-based banking to a **user-centric online banking solution**.
 
-This project showcases a full BA lifecycle: from identifying current pain points to defining business and functional requirements, creating user stories, UI mockups, and process flows.
+The project highlights the complete BA lifecycle: identifying business problems, defining requirements, documenting user stories, designing wireframes, and visualizing process flows.
 
 ---
 
 ## ❗ Current Challenges
-FinTrust Bank currently operates only via physical branches. Customers must visit the branch for:
+FinTrust Bank currently offers only **in-branch services**. Customers are required to visit the branch for:
 
-- Account registration  
-- Balance checks  
+- New account registration  
+- Checking balances  
 - Fund transfers  
-- Accessing transaction records  
+- Accessing transaction history  
 
-This results in:
-- Long queues and delays  
-- High operational costs  
-- Limited service availability  
+This leads to:
+- Long wait times and slower services  
+- High manual workload and operational costs  
+- Limited service hours  
 - Decreased customer satisfaction  
-- Risk of customers migrating to digital-first competitors  
+- Increased risk of losing customers to digital-native banks  
 
 ---
 
 ## 💡 Strategic Solution
-To address these challenges, the bank is launching a **secure, responsive online banking platform** that enables:
+To resolve these pain points, FinTrust Bank is launching a **secure, responsive online banking portal** that will:
 
-- 24/7 account access  
-- Self-service onboarding and profile management  
-- Fund transfers and transaction monitoring  
-- Access to digital statements  
-- Integration with core banking and authentication systems  
+- Allow 24/7 digital access to banking services  
+- Enable self-service account management  
+- Facilitate fund transfers and statement downloads  
+- Seamlessly integrate with the bank’s existing core and authentication systems  
 
-This will significantly reduce in-branch traffic, operational workload, and enhance user experience.
+This will streamline operations and significantly enhance customer experience.
 
 ---
 
@@ -41,46 +40,45 @@ This will significantly reduce in-branch traffic, operational workload, and enha
 
 | # | Folder/File | Description |
 |---|-------------|-------------|
-| 1 | [**1_BRD**](1_BRD/) | Business Requirements Document – Problem statement, solution overview, and business goals |
-| 2 | [**2_FRD**](2_FRD/) | Functional Requirements Document – Detailed functional and non-functional requirements |
+| 1 | [**1_BRD**](1_BRD/) | Business Requirements Document – Background, objectives, and high-level business needs |
+| 2 | [**2_FRD**](2_FRD/) | Functional Requirements Document – Detailed descriptions of system functionality |
 | 3 | [**3_User_Stories**](3_User_Stories/) | Sprint-wise Agile user stories with clear acceptance criteria |
-| 4 | [**4_Wireframes**](4_Wireframes/) | UI screens showing proposed layouts and flows |
-| 5 | [**5_Process_Flows**](5_Process_Flows/) | Process diagrams showing existing (As-Is) and future (To-Be) workflows |
+| 4 | [**4_Wireframes**](4_Wireframes/) | UI mockups for all key pages and workflows |
+| 5 | [**5_Process_Flows**](5_Process_Flows/) | Diagrams representing As-Is and To-Be process states |
 
 ---
 
 ## 🧾 Key Business Requirements
 
 ### 🔐 Digital Profile Management
-- Register a new user  
+- User registration  
 - Login functionality  
-- Set and reset passwords  
-- Change existing passwords  
+- Set/reset password  
+- Change password  
 
 ### 📊 Dashboard & Account Overview
-- View profile details  
+- View profile and personal details  
 - Check account balance  
 - Access account summary  
-- Track transaction history  
+- Track recent transactions  
 
-### ⚙️ Account Features
-- Edit personal information  
-- View and manage account details  
-- Download bank statements  
+### ⚙️ Account Management
+- Edit profile details  
+- View/download bank statements  
 - Manage banking preferences  
 
 ### 💸 Funds Transfer
-- Transfer money to beneficiaries  
-- View transfer and transaction logs  
+- Initiate fund transfers  
+- View transfer history and status  
 
 ---
 
 ## 🛠 Tools & Methodologies
 
 - **Documentation:** Microsoft Word  
-- **Design:** Figma / Balsamiq / Axure  
-- **Diagrams:** Lucidchart / MS Visio  
-- **BA Techniques:** Elicitation, User Story Mapping, Use Case Modeling  
+- **UI/UX Design:** Figma / Balsamiq / Axure  
+- **Process Diagrams:** Lucidchart / MS Visio  
+- **BA Techniques:** Elicitation, Use Case Modeling, User Story Mapping  
 
 ---
 
@@ -92,34 +90,34 @@ This will significantly reduce in-branch traffic, operational workload, and enha
 ### 👥 Registration Form  
 ![Registration](4_Wireframes/Wireframe_3%20(Registration).png)
 
-### 💳 Funds Transfer Interface  
+### 💳 Transfer Funds Interface  
 ![Transfer Funds](4_Wireframes/Wireframe_9%20(Transfer%20Funds).png)
 
 ---
 
 ## 🔄 Process Flow Visuals
 
-### 🔍 Current Process ("As-Is")  
+### 🔍 As-Is Process Flow  
 ![As-Is](5_Process_Flows/As-Is%20Process%20Flow.png)
 
-### 🚀 Proposed Future State ("To-Be")  
+### 🚀 To-Be Process Flow  
 ![To-Be](5_Process_Flows/To-Be%20Process%20Flow.png)
 
 ---
 
-## 🔑 Highlights of the Digital Platform
+## 🔑 Key Features of the Digital Platform
 
-- Anytime access to personal banking  
+- 24x7 access to banking services  
 - Self-managed registration and login  
-- Seamless fund transfers  
-- Profile and statement access  
-- Mobile-friendly, secure design  
+- Seamless, secure fund transfers  
+- Real-time access to statements and summaries  
+- Intuitive and mobile-friendly design  
 
 ---
 
 ## 👩‍💼 About This Project
-This is a **portfolio project** I created as part of my **Business Analyst career development**. It reflects a realistic digital transformation scenario in the banking sector, along with structured documentation following BA best practices.
+This is a **portfolio project** developed as part of my **Business Analyst career journey**, showcasing my ability to manage and deliver comprehensive BA documentation for a real-world banking scenario.
 
-**Author:** GAURANGI JAMDAR 
-**LinkedIn:** [GAURANGI JAMDAR](https://www.linkedin.com/in/gaurangi-jamdar-538b4b379) 
+**Author:** GAURANGI JAMDAR  
+**LinkedIn:** [GAURANGI JAMDAR](https://www.linkedin.com/in/gaurangi-jamdar-538b4b379)  
 **Email:** gaurangijamdar.ba@gmail.com
